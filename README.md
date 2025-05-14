@@ -2,7 +2,7 @@
 #### Computer Science Engineering Student
 ![Software Engineer](https://media.licdn.com/dms/image/D5616AQGIG5KKk1RHFA/profile-displaybackgroundimage-shrink_350_1400/0/1701855338323?e=1721260800&v=beta&t=MagWc5ZP5-WoZuH4O_3wF4mtAqjxSaijpnRQTezt4jA)
 
-I am currently studying for a BSc in Computer Science and Engineering at North South University (CSE). I have a keen interest in Programming, Web, & Software Development. InShaaAllah, I will reach my goal soon.
+Recent BSc graduate in Computer Science and Engineering from North South University with a passion for AI, ML, Data Science and web development. Skilled in Java, Python, C, SQL, HTML, and CSS, and I have developed several projects showcased on my GitHub. Eager to work with an organization that offers opportunities for growth and learning, I aim to utilize my skills to drive business improvements and enhance market reach while aligning with the organization’s objectives.
 
 Skills: Java / JavaFX / C / JavaScript / CSS / HTML  / MySQL / Excel
  
