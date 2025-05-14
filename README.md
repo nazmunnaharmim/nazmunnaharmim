@@ -6,7 +6,6 @@ Recent BSc graduate in Computer Science and Engineering from North South Univers
 
 Skills: Java / JavaFX / C / JavaScript / CSS / HTML  / MySQL / Excel
  
-- 🌱 I’m currently learning Flutter 
 - 📫 How to reach me: mail me at nazmunnaharmim097@gmail.com 
 - 😄 Pronouns: she/her 
 - ⚡ Fun fact: Food Lover 
